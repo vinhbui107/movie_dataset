@@ -1,2 +1,2 @@
 # movie_dataset
-All data of movie and actor in USA an Uk with more than 7.0 imbd
+All movie and actor data in USA and UK have an imdb rating greater than 7.
